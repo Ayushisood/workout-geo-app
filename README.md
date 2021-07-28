@@ -6,7 +6,7 @@ Aim of the project was to render workout location fetched from an API on map usi
 
 ## Functionality
 
-Workout type : Cycling | Running
+Workout type : Cycling | Running\
 Added workout will be rendered with the markup on the map
 
 
@@ -18,7 +18,7 @@ API used in this project : [Geolocation-API](https://w3c.github.io/geolocation-a
 
 Mapty : [Netlify](https://workout-geolocation.netlify.app/) 
 
-## Screenshots
+## Screenshot
 
 ![Alt text](/img/ss1.png?raw=true)
 
