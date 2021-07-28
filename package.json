@@ -1,0 +1,14 @@
+{
+  "name": "geolocation-app",
+  "version": "1.0.0",
+  "description": "app to reb=nder workout geolocation",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Ayushi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.3.1"
+  }
+}
